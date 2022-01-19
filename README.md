@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5432roy
 - 👀 I’m interested in cloud computing & Machine Learning
-- 🌱 I’m currently learning Java & python & 
+- 🌱 I’m currently learning Java & python & PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 960289@gmail.com
 
