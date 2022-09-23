@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5432roy
-- 👀 I’m interested in cloud computing & Machine Learning
+- 👀 I’m interested in Data Analytics & Machine Learning
 - 👀 Recently researching blockchain technology & crypto, mainly focus on Terra chain and some other stable coins
 - 🌱 I’m currently learning Java & python & PostgreSQL
 - 💞️ I’m looking to collaborate on ...
