@@ -4,6 +4,7 @@
 - I enjoy the challenge of analyzing and breaking down problems to find effective solutions.
 - 🌱 I’m currently learning C & python3 & PostgreSQL
 - 📫 How to reach me 960289@gmail.com
+- To view my resume https://docs.google.com/document/d/1D9K-XgPMsHHdWQElwrTFZut8oVmc5auJ8HFoLPWuWWc/edit?usp=sharing
 
 <!---
 5432roy/5432roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
