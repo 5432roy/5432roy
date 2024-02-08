@@ -9,7 +9,9 @@
 
 <code><img width=30% alt="leetcode solved" src="resources\leetcodesolvedproblem02072024.png"></code>
 <code><img width=60% alt="contest rating" src="resources\ContestRating2024-02-07.png"></code>
-<code><a href="https://github.com/5432roy/LeetCodePractice">All my code for the problems I have solved</a></code>
+
+To know more about my coding style and the logic for each question, please visit the following repo to see all my code for the problems I have solved.
+<code><a href="https://github.com/5432roy/LeetCodePractice">LeetCodePractice</a></code>
 
 <!---
 5432roy/5432roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
