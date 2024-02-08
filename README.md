@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning C & python3 & PostgreSQL
 - 💼 Please visit my website for more detailed information about me
 
-<code><img width=25% alt="leetcode solved" src="resources\leetcodesolvedproblem02072024.png"></code>
-<code><img width=50% alt="contest rating" src="resources\ContestRating2024-02-07.png"></code>
+---
+
+<code><img width=30% alt="leetcode solved" src="resources\leetcodesolvedproblem02072024.png"></code>
+<code><img width=60% alt="contest rating" src="resources\ContestRating2024-02-07.png"></code>
 
 <!---
 5432roy/5432roy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
