@@ -3,9 +3,9 @@
 - I am a dedicated and passionate competitive programmer with a strong interest in solving complex problems. 
 - I enjoy the challenge of analyzing and breaking down problems to find effective solutions.
 - 🌱 I’m currently learning C & python3 & PostgreSQL
-- 💼 Please visit my website for more detailed information about me
+- 💼 Please visit [my website](https://5432roy.github.io/) for more detailed information about me
 
-## My leetcode progress
+## My Leetcode progress
 
 <code><img width=30% alt="leetcode solved" src="resources\leetcodesolvedproblem02072024.png"></code>
 <code><img width=60% alt="contest rating" src="resources\ContestRating2024-02-07.png"></code>
