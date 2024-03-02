@@ -10,7 +10,7 @@
 <code><img width=25% alt="leetcode solved" src="resources\leetcodesolvedproblem02072024.png"></code>
 <code><img width=50% alt="contest rating" src="resources\ContestRating2024-02-07.png"></code>
 <code><img width=8% alt="Feb badge" src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-2.png"></code>
-<code><img width=8% alt="100 days badge" src="https://assets.leetcode.com/static_assets/public/images/badges/2022/lg/2022-annual-100.png"></code>
+<code><img width=8% alt="100 days badge 2022" src="https://assets.leetcode.com/static_assets/public/images/badges/2022/lg/2022-annual-100.png"></code>
 
 To know more about my coding style and the logic for each question, please visit the following repo to see all my code for the problems I have solved.
 <code><a href="https://github.com/5432roy/LeetCodePractice">LeetCodePractice</a></code>
