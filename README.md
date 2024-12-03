@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @5432roy
 - 👀 In terms of the CS learning field, I’m interested in Data Analytics & Machine Learning
-- I am a dedicated and passionate competitive programmer with a strong interest in solving complex problems. 
+- I am a dedicated and passionate competitive programmer.
 - I enjoy the challenge of analyzing and breaking down problems to find effective solutions.
-- 🌱 I’m currently learning C & python3 & PostgreSQL
-- 💼 Please visit [my website](https://5432roy.github.io/) for more detailed information about me
+- 💼 I am working at NextLabs as a software engineer intern. Writing C/C++ program for the Windows operating system right management extension.
+- 🌱 Please visit [my website](https://5432roy.github.io/) for more detailed information about me
+
 
 ## My Leetcode progress
 
