@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @5432roy
-- 👀 In terms of the CS learning field, I’m interested in Data Analytics & Machine Learning
-- I am a dedicated and passionate competitive programmer.
-- I enjoy the challenge of analyzing and breaking down problems to find effective solutions.
-- 💼 I am working at NextLabs as a software engineer intern. Writing C/C++ program for the Windows operating system right management extension.
-- 🌱 Please visit [my website](https://5432roy.github.io/) for more detailed information about me
+- I am a dedicated and passionate competitive programmer. I enjoy the challenge of analyzing and breaking down problems to find effective solutions.
+- 💼 I was working at NextLabs as a software engineer intern. Worked on SkyDRM, a data security-as-a-service app. Using reverse engineering and Windows file system and operating system API to expand the support of SkyDRM to other software.
+- 🎮 I like to play video games during my free time and have developed some mods for the games I enjoy. [ONI Mods](https://github.com/5432roy/ModsNotIncluded/tree/main/HeatExchangeNotIncluded_StorageBin)
+- 🌱 Please visit [my website](https://5432roy.github.io/) for more detailed information about me.
 
 
 ## My Leetcode progress
