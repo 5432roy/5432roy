@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5432roy
 - I am a dedicated and passionate competitive programmer. I enjoy the challenge of analyzing and breaking down problems to find effective solutions.
-- 💼 Currently a full-stack engineer at Love All Play LLC, building a customer-facing page, designing and implementing backend database logic. 
+- 💼 Was a full-stack engineer at Love All Play LLC, building a customer-facing page, designing and implementing backend database logic. 
 - 💼 I was a software engineer intern at NextLabs. I worked on SkyDRM, a security-as-a-service software to enfore digit right managment (DRM). I used reverse engineering and the Windows file system and operating system API to expand SkyDRM's support to other software.
 - 🎮 I like to play video games during my free time and have developed some mods for the games I enjoy. [ONI Mods](https://github.com/5432roy/ModsNotIncluded/tree/main/HeatExchangeNotIncluded_StorageBin)
 - 🌱 Please visit [my website](https://5432roy.github.io/) for more detailed information about me.
